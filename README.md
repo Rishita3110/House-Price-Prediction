@@ -1,5 +1,9 @@
 # House Price Prediction using Ames Housing Dataset
 
+## Live Demo
+
+🔗 Streamlit app : https://house-price-prediction-in7xpeu5n4iaucbrmeljzm.streamlit.app/
+
 ## Project Overview
 
 This project predicts house prices using the Ames Housing Dataset. Multiple regression models were evaluated, including:
